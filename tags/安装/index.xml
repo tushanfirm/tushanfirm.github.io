@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安装 on 小糊涂仙</title><link>https://tushanfirm.github.io/tags/%E5%AE%89%E8%A3%85/</link><description>Recent content in 安装 on 小糊涂仙</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024 小糊涂仙</copyright><atom:link href="https://tushanfirm.github.io/tags/%E5%AE%89%E8%A3%85/index.xml" rel="self" type="application/rss+xml"/><item><title>安装和配置</title><link>https://tushanfirm.github.io/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tushanfirm.github.io/docs/installation/</guid><description>&lt;p>如果想快速上手，可以按照标准的 Hugo &lt;a href="https://gohugo.io/getting-started/quick-start/" target="_blank">快速启动&lt;/a> 文档。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>安装 on 小糊涂仙</title><link>https://tushanfirm.github.io/tags/%E5%AE%89%E8%A3%85/</link><description>Recent content in 安装 on 小糊涂仙</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024 小糊涂仙</copyright><atom:link href="https://tushanfirm.github.io/tags/%E5%AE%89%E8%A3%85/index.xml" rel="self" type="application/rss+xml"/><item><title>安装和配置</title><link>https://tushanfirm.github.io/others/docs/installation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tushanfirm.github.io/others/docs/installation/</guid><description>&lt;p>如果想快速上手，可以按照标准的 Hugo &lt;a href="https://gohugo.io/getting-started/quick-start/" target="_blank">快速启动&lt;/a> 文档。&lt;/p>
 &lt;p>更详细的安装如下，&lt;a href="#installing-updates">更新主题&lt;/a>的教程也可以看此文档。&lt;/p>
 &lt;h2 class="relative group">前言
 &lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
@@ -8,7 +8,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 style="text-decoration-line: none !important;" href="#%E5%89%8D%E8%A8%80" aria-label="锚点">#&lt;/a>
 &lt;/span>
 &lt;/h2>
-&lt;p>本文将一步一步指导你学会使用 Hugo 和 Blowfish。本文中提到的大多数依赖项都可以在任意你想使用的平台中使用和安装。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tushanfirm.github.io/docs/installation/featured.svg"/></item><item><title>入门指南</title><link>https://tushanfirm.github.io/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tushanfirm.github.io/docs/getting-started/</guid><description>&lt;div
+&lt;p>本文将一步一步指导你学会使用 Hugo 和 Blowfish。本文中提到的大多数依赖项都可以在任意你想使用的平台中使用和安装。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tushanfirm.github.io/others/docs/installation/featured.svg"/></item><item><title>入门指南</title><link>https://tushanfirm.github.io/others/docs/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://tushanfirm.github.io/others/docs/getting-started/</guid><description>&lt;div
 class="flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900"
 >
 &lt;span
@@ -20,7 +20,7 @@ class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
 &lt;/span>
 &lt;span
 class="dark:text-neutral-300"
->本节内容需要已经阅读了 &lt;a href="https://tushanfirm.github.io/docs/installation/" target="_blank">安装 Blowfish 主题&lt;/a>。&lt;/span>
+>本节内容需要已经阅读了 &lt;a href="https://tushanfirm.github.io/others/docs/installation/" target="_blank">安装 Blowfish 主题&lt;/a>。&lt;/span>
 &lt;/div>
 &lt;/br>
 &lt;div
@@ -36,4 +36,4 @@ class="text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center"
 &lt;/span>
 &lt;span
 class="dark:text-neutral-300"
->&lt;p>我们刚刚推出了一个 CLI 工具，用来帮助你快速开始 Blowfish。 它将帮助你安装和配置 Blowfish 主题。 可以使用以下命令全局安装 CLI 工具：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tushanfirm.github.io/docs/getting-started/featured.svg"/></item></channel></rss>
+>&lt;p>我们刚刚推出了一个 CLI 工具，用来帮助你快速开始 Blowfish。 它将帮助你安装和配置 Blowfish 主题。 可以使用以下命令全局安装 CLI 工具：&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://tushanfirm.github.io/others/docs/getting-started/featured.svg"/></item></channel></rss>
