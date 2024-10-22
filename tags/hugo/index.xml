@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 首页</title><link>https://xiaohutu.cc/tags/hugo/</link><description>Recent content in Hugo on 首页</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024 小糊涂仙</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaohutu.cc/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo构建时自动CNAME到自定义域名</title><link>https://xiaohutu.cc/miscellaneous/20241022-cname/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/miscellaneous/20241022-cname/</guid><description>我发现每次发表新博客文章后，触发GitHub的自动构建时，自定义域名就没了，需要重新去GitHub保存，很麻烦。</description></item><item><title>使用 Blowfish和 Hugo 构建你的主页</title><link>https://xiaohutu.cc/others/guides/202310-blowfish-tutorial/</link><pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/others/guides/202310-blowfish-tutorial/</guid><description>一年前我创建了 Blowfish，这是一个为了打造我的个人主页而精心设计的 Hugo 主题。我决定将其作为一个开源项目。直到今天，Blowfish 已经变成了一个蓬勃发展的开源项目，在 GitHub 上拥有超过900个 star 和数百名用户。在本教程中，我将向你展示如何搭建并在几分钟内让你的网站运行起来。</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://xiaohutu.cc/others/guides/202310-blowfish-tutorial/featured.jpg"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hugo on 小糊涂仙</title><link>https://xiaohutu.cc/tags/hugo/</link><description>Recent content in Hugo on 小糊涂仙</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>小糊涂仙</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaohutu.cc/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo构建时自动CNAME到自定义域名</title><link>https://xiaohutu.cc/p/20241022-cname/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/p/20241022-cname/</guid><description>&lt;img src="https://xiaohutu.cc/p/20241022-cname/featured.png" alt="Featured image of post Hugo构建时自动CNAME到自定义域名" />&lt;h2 id="问题原因">问题原因
+&lt;/h2>&lt;p>我发现每次发表新博客文章后，触发GitHub的自动构建时，自定义域名就没了，需要重新去GitHub保存，很麻烦。
+&lt;img src="https://xiaohutu.cc/p/20241022-cname/image-0.png"
+width="1221"
+height="385"
+srcset="https://xiaohutu.cc/p/20241022-cname/image-0_hu17318799098569300110.png 480w, https://xiaohutu.cc/p/20241022-cname/image-0_hu8922444496196299464.png 1024w"
+loading="lazy"
+alt="alt github设置"
+class="gallery-image"
+data-flex-grow="317"
+data-flex-basis="761px"
+>&lt;/p>
+&lt;h2 id="解决方法">解决方法
+&lt;/h2>&lt;p>只需要在Hugo的静态目录增加一个文件，指向自定义域名即可。
+&lt;img src="https://xiaohutu.cc/p/20241022-cname/image-1.png"
+width="475"
+height="624"
+srcset="https://xiaohutu.cc/p/20241022-cname/image-1_hu5578424533926862066.png 480w, https://xiaohutu.cc/p/20241022-cname/image-1_hu4702018641453657149.png 1024w"
+loading="lazy"
+alt="alt 指向自定义域名"
+class="gallery-image"
+data-flex-grow="76"
+data-flex-basis="182px"
+>&lt;/p></description></item></channel></rss>

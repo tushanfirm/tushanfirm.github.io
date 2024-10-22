@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Pages on 首页</title><link>https://xiaohutu.cc/tags/github-pages/</link><description>Recent content in GitHub Pages on 首页</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>© 2024 小糊涂仙</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaohutu.cc/tags/github-pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo构建时自动CNAME到自定义域名</title><link>https://xiaohutu.cc/miscellaneous/20241022-cname/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/miscellaneous/20241022-cname/</guid><description>我发现每次发表新博客文章后，触发GitHub的自动构建时，自定义域名就没了，需要重新去GitHub保存，很麻烦。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitHub Pages on 小糊涂仙</title><link>https://xiaohutu.cc/tags/github-pages/</link><description>Recent content in GitHub Pages on 小糊涂仙</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>小糊涂仙</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaohutu.cc/tags/github-pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo构建时自动CNAME到自定义域名</title><link>https://xiaohutu.cc/p/20241022-cname/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/p/20241022-cname/</guid><description>&lt;img src="https://xiaohutu.cc/p/20241022-cname/featured.png" alt="Featured image of post Hugo构建时自动CNAME到自定义域名" />&lt;h2 id="问题原因">问题原因
+&lt;/h2>&lt;p>我发现每次发表新博客文章后，触发GitHub的自动构建时，自定义域名就没了，需要重新去GitHub保存，很麻烦。
+&lt;img src="https://xiaohutu.cc/p/20241022-cname/image-0.png"
+width="1221"
+height="385"
+srcset="https://xiaohutu.cc/p/20241022-cname/image-0_hu17318799098569300110.png 480w, https://xiaohutu.cc/p/20241022-cname/image-0_hu8922444496196299464.png 1024w"
+loading="lazy"
+alt="alt github设置"
+class="gallery-image"
+data-flex-grow="317"
+data-flex-basis="761px"
+>&lt;/p>
+&lt;h2 id="解决方法">解决方法
+&lt;/h2>&lt;p>只需要在Hugo的静态目录增加一个文件，指向自定义域名即可。
+&lt;img src="https://xiaohutu.cc/p/20241022-cname/image-1.png"
+width="475"
+height="624"
+srcset="https://xiaohutu.cc/p/20241022-cname/image-1_hu5578424533926862066.png 480w, https://xiaohutu.cc/p/20241022-cname/image-1_hu4702018641453657149.png 1024w"
+loading="lazy"
+alt="alt 指向自定义域名"
+class="gallery-image"
+data-flex-grow="76"
+data-flex-basis="182px"
+>&lt;/p></description></item></channel></rss>
