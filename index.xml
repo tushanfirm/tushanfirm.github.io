@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>小糊涂仙</title><link>https://xiaohutu.cc/</link><description>Recent content on 小糊涂仙</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>小糊涂仙</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaohutu.cc/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo构建时自动CNAME到自定义域名</title><link>https://xiaohutu.cc/p/20241022-cname/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/p/20241022-cname/</guid><description>&lt;img src="https://xiaohutu.cc/p/20241022-cname/featured.png" alt="Featured image of post Hugo构建时自动CNAME到自定义域名" />&lt;h2 id="问题原因">问题原因
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>小糊涂仙</title><link>https://xiaohutu.cc/</link><description>Recent content on 小糊涂仙</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><copyright>小糊涂仙</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://xiaohutu.cc/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo构建时自动CNAME到自定义域名</title><link>https://xiaohutu.cc/p/github-pages-cname/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/p/github-pages-cname/</guid><description>&lt;img src="https://xiaohutu.cc/p/github-pages-cname/featured.png" alt="Featured image of post Hugo构建时自动CNAME到自定义域名" />&lt;h2 id="问题原因">问题原因
 &lt;/h2>&lt;p>我发现每次发表新博客文章后，触发GitHub的自动构建时，自定义域名就没了，需要重新去GitHub保存，很麻烦。
-&lt;img src="https://xiaohutu.cc/p/20241022-cname/image-0.png"
+&lt;img src="https://xiaohutu.cc/p/github-pages-cname/image-0.png"
 width="1221"
 height="385"
-srcset="https://xiaohutu.cc/p/20241022-cname/image-0_hu17318799098569300110.png 480w, https://xiaohutu.cc/p/20241022-cname/image-0_hu8922444496196299464.png 1024w"
+srcset="https://xiaohutu.cc/p/github-pages-cname/image-0_hu17318799098569300110.png 480w, https://xiaohutu.cc/p/github-pages-cname/image-0_hu8922444496196299464.png 1024w"
 loading="lazy"
 alt="alt github设置"
 class="gallery-image"
@@ -12,10 +12,10 @@ data-flex-basis="761px"
 >&lt;/p>
 &lt;h2 id="解决方法">解决方法
 &lt;/h2>&lt;p>只需要在Hugo的静态目录增加一个文件，指向自定义域名即可。
-&lt;img src="https://xiaohutu.cc/p/20241022-cname/image-1.png"
+&lt;img src="https://xiaohutu.cc/p/github-pages-cname/image-1.png"
 width="475"
 height="624"
-srcset="https://xiaohutu.cc/p/20241022-cname/image-1_hu5578424533926862066.png 480w, https://xiaohutu.cc/p/20241022-cname/image-1_hu4702018641453657149.png 1024w"
+srcset="https://xiaohutu.cc/p/github-pages-cname/image-1_hu5578424533926862066.png 480w, https://xiaohutu.cc/p/github-pages-cname/image-1_hu4702018641453657149.png 1024w"
 loading="lazy"
 alt="alt 指向自定义域名"
 class="gallery-image"
@@ -43,7 +43,7 @@ data-flex-basis="182px"
 &lt;/blockquote>
 &lt;hr>
 &lt;h5 id="感谢你的访问希望你喜欢这里的一切记得常来哦我们下次见">感谢你的访问，希望你喜欢这里的一切。记得常来哦，我们下次见！👋
-&lt;/h5></description></item><item><title>我的第一篇博客文章</title><link>https://xiaohutu.cc/p/first-post/</link><pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/p/first-post/</guid><description>&lt;img src="https://xiaohutu.cc/p/first-post/featured.png" alt="Featured image of post 我的第一篇博客文章" />&lt;h1 id="我的博客小天地">我的博客小天地
+&lt;/h5></description></item><item><title>我的第一篇博客文章</title><link>https://xiaohutu.cc/p/first-post/</link><pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate><guid>https://xiaohutu.cc/p/first-post/</guid><description>&lt;img src="https://picsum.photos/800/600.webp" alt="Featured image of post 我的第一篇博客文章" />&lt;h1 id="我的博客小天地">我的博客小天地
 &lt;/h1>&lt;p>在这个快节奏的数字时代，我发现自己渐渐积累了许多宝贵的经验和故事。于是，我决定搭建一个博客，作为一个温馨的小角落，记录和分享我的生活点滴、数码DIY的乐趣，以及工作中的小感悟。&lt;/p>
 &lt;h2 id="第一篇博客">第一篇博客
 &lt;/h2>&lt;p>我的第一篇博客，就像是我自己的一片小天地，我在这里用文字描绘我的所见所闻，所思所感。我想要分享的，不仅仅是技术层面的知识，更是一种生活的态度，一种对美好事物的追求。&lt;/p>
